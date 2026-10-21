@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://azixur.me/sitemap.xml
+Sitemap: https://azixur.com/sitemap.xml
